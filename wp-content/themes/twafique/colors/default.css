@@ -1,0 +1,83 @@
+/* Link Colors */
+a {
+	color:#0a58a7;
+	}
+	
+a:hover { 
+	color:#FF0000; 
+	}
+
+#subheader {
+	/*background-color:#f0f8ff;*/
+	background:url(../images/doha-img.jpg) no-repeat right;
+}
+	
+.sf-menu li:hover, .sf-menu li.sfHover,
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu li a:hover,
+.sf-menu a:active,
+.sf-menu li.current-cat > a, 
+.sf-menu li.current_page_item  > a {  color:#7F000E; 
+background:-webkit-linear-gradient(#DFDFDF, #ffffff); 
+background:-moz-linear-gradient(#DFDFDF, #ffffff);
+background:-o-linear-gradient(#DFDFDF, #ffffff);
+background:-ms-linear-gradient(#DFDFDF, #ffffff);
+background:linear-gradient(#DFDFDF, #ffffff);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#DFDFDF', endColorstr='#ffffff'); zoom: 1;
+border-radius:4px; 
+-moz-radius:4px;
+-webkit-radius:4px;
+-o-border-radius:4px;
+-ms-border-radius:4px; }
+	
+	
+.subtitle h1 span,
+.copyright,
+a.button, a.button:hover,
+.flickr_badge_image img:hover,
+.flex-direction-nav li .prev:hover,
+.flex-direction-nav li .next:hover,
+.widget_postslist li .thumb img:hover,
+.flex-direction-nav li a.prev:hover,
+.flex-direction-nav li a.next:hover,
+/* Date Picker */
+.ui-widget-header, 
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus,
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight { 
+	
+	background:-webkit-linear-gradient(#3F3F3F, #010204);
+	background:-moz-linear-gradient(#3F3F3F, #010204);
+	background:-o-linear-gradient(#3F3F3F, #010204);
+	background:-ms-linear-gradient(#3F3F3F, #010204);
+	background:linear-gradient(#3F3F3F, #010204);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3F3F3F', endColorstr='#010204');
+zoom: 1;
+	}
+	
+h1 span { color:#105aa6; }
+hr  {
+	background-color:#000;
+	}	
+
+.topbar { 
+	/*background-color:#f0f8ff;*/
+	/*background:url(../images/bg-menu.jpg) no-repeat;
+	border-color:#dceeff;*/
+	}
+	
+#boxed #wrapper {
+	background-image:url(../images/opacs/dark10.png);
+	}
+	
+	.subtitle h1 span{ padding:10px 20px; }
+	.subdesc { background-color:#fff; }
+
+
+#footer {
+	background-color:#fff; 
+	border-color:#dceeff;
+	}
+
+.subtitle h1 span,
+.copyright {
+	color:#fff; 
+	}
